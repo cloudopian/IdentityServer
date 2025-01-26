@@ -1,0 +1,52 @@
+﻿# .NET Core
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Docker
+**/[Dd]ockerfile*
+**/[Dd]ocker-compose*
+**/docker-compose.override.yml
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+.vscode/*.sln
+.vscode/*.csproj
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.swp
+*~
+
+# Logs
+*.log
+
+# npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# Publish output
+publish/

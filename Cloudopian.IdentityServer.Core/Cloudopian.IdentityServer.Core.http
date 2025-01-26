@@ -1,0 +1,6 @@
+@Cloudopian.IdentityServer.Core_HostAddress = http://localhost:5190
+
+GET {{Cloudopian.IdentityServer.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
